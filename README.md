@@ -1,5 +1,10 @@
-- Hello World!🌎 
- - Sou um jovem Padawan, aspirante a dev web e amante de um bom café!☕🖖
+<h1 align="center">Ednaldo Neto</h1>
+
+<h3 align="center">👋 Hello World!! 🌎</h3>  
+ 
+- Sou um jovem Padawan, aspirante a dev web e amante de um bom café!☕🖖
+
+-  Sou Amante da cultura inglesa, inclusive possuo nivel de Ingês avançado em escrita e oratória.
 -  Estou aqui para aprender e evoluir cada vez mais no mundo da tecnologia.
 
 # Sobre Mim
@@ -26,7 +31,5 @@
  # Meios de Comunicação 🤝
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/netdeadx) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ednaldo-bispo-de-araújo-neto-441831215/)
-
-<br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NetDevR" alt="NetDevR" /></p>
