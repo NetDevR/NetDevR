@@ -1,7 +1,7 @@
-- 👋 Olá, eu sou o Neto!
-- 👀 Estou no caminho do conhecimento constante e sempre a procura de novos desafios
-- 🌱 No momento estou aprendendo como versionar meus projetos para me preparar para o bootcamp da Santander
-- 📫 Para entrar em contato comigo, meu email é ednaldonetoaraujo18@gmail.com
+Hello World!🌎
+Sou um jovem Padawan, aspirante a dev web e amante de um bom café!☕🖖
+
+Estou aqui para aprender e evoluir cada vez mais no mundo da tecnologia.
 
 Back-End
 
