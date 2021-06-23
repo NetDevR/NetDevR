@@ -1,5 +1,4 @@
-- Hello World!🌎
-  
+- Hello World!🌎 
  - Sou um jovem Padawan, aspirante a dev web e amante de um bom café!☕🖖
 
 Estou aqui para aprender e evoluir cada vez mais no mundo da tecnologia.
